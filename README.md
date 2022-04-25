@@ -1,7 +1,6 @@
 ## I'm Maksim, FrontEnd Developer
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=makasinui&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makasinui)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My knowledges:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,3 +13,5 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makasinui)](https://github.com/anuraghazra/github-readme-stats)
