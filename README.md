@@ -1,4 +1,5 @@
 ## I'm Maksim, FrontEnd Developer
+![](https://komarev.com/ghpvc/?username=makasinui)<br>
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=makasinui&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) <br>
 
@@ -15,4 +16,4 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makasinui)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=makasinui)
+
