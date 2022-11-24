@@ -15,5 +15,5 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makasinui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makasinui&layout=compact&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
